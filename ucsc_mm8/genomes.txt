@@ -1,0 +1,2 @@
+genome mm8
+trackDb mm8/trackDb.txt

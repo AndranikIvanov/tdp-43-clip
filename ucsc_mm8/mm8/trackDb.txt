@@ -1,0 +1,15 @@
+track TDP43_H
+bigDataUrl bw/GSM672062_TDP43brainH.mm8.bowtie.bw
+shortLabel TDP-43 clip high mnase
+longLabel TDP-43 clipseq mouse brain high mnase
+type bigWig
+visibility pack
+itemRgb on
+
+track TDP43_L
+bigDataUrl bw/GSM672063_TDP43brainL.mm8.bowtie.bw
+shortLabel TDP-43 clip low mnase
+longLabel TDP-43 clipseq mouse brain low mnase
+type bigWig
+visibility pack
+itemRgb on

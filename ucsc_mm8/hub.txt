@@ -1,0 +1,6 @@
+hub tdp-43_clip
+shortLabel tdp-43_clip
+longLabel tdp-43_clipseq_GSM672062_GSM672063
+genomesFile genomes.txt
+email andranik.ivanov@bihealth.de
+descriptionUrl https://github.com/AndranikIvanov/tdp-43-clip/blob/main/ucsc_mm8/hub_info.html
