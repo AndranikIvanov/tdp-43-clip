@@ -1,0 +1,7 @@
+track TDP
+bigDataUrl bw/GSM998871_MP41.bw
+shortLabel TDP-43 clip
+longLabel TDP-43 clipseq mouse brain
+type bigWig
+visibility pack
+itemRgb on
